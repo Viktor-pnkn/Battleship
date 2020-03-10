@@ -1,0 +1,4 @@
+Grid Width and Height: 1
+Multiple Hits Allowed: true
+Computer Ships Visible: false
+No of Ships: 3
